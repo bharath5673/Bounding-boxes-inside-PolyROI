@@ -50,6 +50,7 @@ while True:
       color = (0, 0, 225)
     else:
       color = (255, 0, 0)
+      
 
     #Threshold score
     if score >= 0.5:
